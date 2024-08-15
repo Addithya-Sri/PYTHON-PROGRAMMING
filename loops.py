@@ -31,8 +31,25 @@ for i in s:
 print("Dictanories Iteration")
 '''
 
-numbers = [1, 2, 3, 4, 5]
+'''numbers = [1, 2, 3, 4, 5]
 total = 0
 for i in range(1, len(numbers)):
     total += numbers[i]
-    print(total)
+    print(total) '''
+
+'''count = 0
+while (count < 3):
+    count = count + 1
+    print("Mr beast") '''
+
+'''names = ["My", "laptop", "is", "Awesome"]
+for i in range(len(names)):
+    print(names[i])'''
+
+
+for i in range(1, 5):
+    for j in range(i):
+        print(i, end=' ')
+        print()
+         
+PYTHON-PROGRAMMING

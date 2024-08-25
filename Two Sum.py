@@ -10,6 +10,7 @@ class Solution:
 
             if i in h and h[y] != i:
                 return (h[y], i) 
+            
 
          
               
